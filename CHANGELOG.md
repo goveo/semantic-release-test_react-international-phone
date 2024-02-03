@@ -1,3 +1,16 @@
+# 1.0.0 (2024-02-03)
+
+
+### Bug Fixes
+
+* remove chromatic and codecov from release pipeline ([42d800b](https://github.com/goveo/semantic-release-test_react-international-phone/commit/42d800b8bdfb2ad8a44d31295060d10f47a09978))
+* update repository name ([1622f98](https://github.com/goveo/semantic-release-test_react-international-phone/commit/1622f98c93a5944dd15d59caf6286dd2ccaf4961))
+
+
+### Features
+
+* add files ([568cd3d](https://github.com/goveo/semantic-release-test_react-international-phone/commit/568cd3d33068e3a3007a44eb92775a3d888db60c))
+
 ## [4.2.3](https://github.com/goveo/react-international-phone/compare/v4.2.2...v4.2.3) (2024-02-03)
 
 
