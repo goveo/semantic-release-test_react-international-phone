@@ -11,6 +11,7 @@ export { defaultCountries } from './data/countryData';
 export { usePhoneInput } from './hooks/usePhoneInput';
 export type { CountryData, CountryIso2 } from './types';
 export {
+  addDialCode,
   buildCountryData,
   getActiveFormattingMask,
   getCountry,
