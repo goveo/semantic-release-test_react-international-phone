@@ -23,7 +23,7 @@
   "module": "index.mjs",
   "scripts": {
     "cm": "cz",
-    "build": "tsup",
+    "build": "tsup && cp README.md dist/README.md && cp package.json dist/package.json && cp LICENSE dist/LICENSE",
     "build2": "tsup && cp README.md dist/README.md && cp package.json dist/package.json && cp LICENSE dist/LICENSE",
     "test": "jest",
     "test-storybook": "test-storybook",
