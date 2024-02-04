@@ -1,3 +1,10 @@
+## [1.8.2](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.8.1...v1.8.2) (2024-02-04)
+
+
+### Bug Fixes
+
+* remove husky install on prepare ([7a12aa1](https://github.com/goveo/semantic-release-test_react-international-phone/commit/7a12aa161bb7462810d661db1d588f23937ffaf9))
+
 ## [1.8.1](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.8.0...v1.8.1) (2024-02-04)
 
 
