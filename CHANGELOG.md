@@ -1,3 +1,10 @@
+## [1.8.5](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.8.4...v1.8.5) (2024-02-04)
+
+
+### Bug Fixes
+
+* remove files from package.json ([3863b65](https://github.com/goveo/semantic-release-test_react-international-phone/commit/3863b65d8caf8d7945101d84eecda73c4b5fcd6c))
+
 ## [1.8.4](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.8.3...v1.8.4) (2024-02-04)
 
 
