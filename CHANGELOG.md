@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.4.0...v1.5.0) (2024-02-04)
+
+
+### Features
+
+* test assets ([b59a02e](https://github.com/goveo/semantic-release-test_react-international-phone/commit/b59a02eadc49caae182f219da377b9d0fc042d64))
+
 # 1.0.0 (2024-02-03)
 
 
