@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.5.0...v1.6.0) (2024-02-04)
+
+
+### Features
+
+* test tarballDir ([cdce51a](https://github.com/goveo/semantic-release-test_react-international-phone/commit/cdce51a582dafa27c9609bf06b52e945cd917a14))
+
 # [1.5.0](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.4.0...v1.5.0) (2024-02-04)
 
 
