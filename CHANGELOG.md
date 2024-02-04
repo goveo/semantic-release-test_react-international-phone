@@ -1,3 +1,10 @@
+## [1.8.7](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.8.6...v1.8.7) (2024-02-04)
+
+
+### Bug Fixes
+
+* change build folder to dist ([3e5cb3a](https://github.com/goveo/semantic-release-test_react-international-phone/commit/3e5cb3aa0c2dc518a679a006e714bd22012fe5df))
+
 ## [1.8.6](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.8.5...v1.8.6) (2024-02-04)
 
 
