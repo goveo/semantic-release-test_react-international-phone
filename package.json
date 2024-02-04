@@ -2,6 +2,20 @@
   "name": "semantic-release-test_react-international-phone",
   "version": "1.8.6",
   "description": "Semantic release test",
+  "keywords": [
+    "react",
+    "phone",
+    "input",
+    "international",
+    "format",
+    "number",
+    "tel",
+    "telephone",
+    "react-component",
+    "phone-input",
+    "react-phone",
+    "react-international-phone"
+  ],
   "private": false,
   "author": "Yurii Brusentsov <yuriybrusentsov@gmail.com>",
   "license": "MIT",
@@ -41,6 +55,7 @@
     "lint:scss": "stylelint \"**/*{.css,.scss}\" --custom-syntax postcss-scss",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
+    "prepare": "husky install",
     "semantic-release": "semantic-release",
     "docs:dev": "cd packages/docs && pnpm start",
     "docs:build": "cd packages/docs && pnpm build",
@@ -49,7 +64,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/goveo/semantic-release-test_react-international-phone"
+    "url": "https://github.com/goveo/semantic-release-test_react-international-phone.git"
   },
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
@@ -62,12 +77,12 @@
     "@emotion/styled": "^11",
     "@mui/material": "^5.10.16",
     "@playwright/test": "^1.27.1",
-    "@semantic-release/changelog": "^6.0.3",
-    "@semantic-release/commit-analyzer": "^11.1.0",
+    "@semantic-release/changelog": "^6.0.2",
+    "@semantic-release/commit-analyzer": "^9.0.2",
     "@semantic-release/git": "^10.0.1",
-    "@semantic-release/github": "^9.2.6",
-    "@semantic-release/npm": "^11.0.2",
-    "@semantic-release/release-notes-generator": "^12.1.0",
+    "@semantic-release/github": "^8.0.6",
+    "@semantic-release/npm": "^9.0.1",
+    "@semantic-release/release-notes-generator": "^10.0.3",
     "@storybook/addon-controls": "^7.4.1",
     "@storybook/addon-interactions": "^7.4.1",
     "@storybook/jest": "^0.2.2",
@@ -112,7 +127,7 @@
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.41.1",
     "sass": "^1.55.0",
-    "semantic-release": "^23.0.0",
+    "semantic-release": "^19.0.5",
     "storybook": "^7.4.1",
     "stylelint": "^14.13.0",
     "stylelint-config-idiomatic-order": "^9.0.0",
@@ -131,5 +146,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "homepage": "https://react-international-phone-docs.vercel.app/"
 }
