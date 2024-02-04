@@ -45,9 +45,6 @@
     "docs:serve": "cd packages/docs && pnpm serve",
     "docs:test": "pnpm build && pnpm docs:build && pnpm docs:serve"
   },
-  "files": [
-    "dist"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/goveo/semantic-release-test_react-international-phone"
