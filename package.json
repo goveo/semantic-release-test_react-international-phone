@@ -39,7 +39,6 @@
     "lint:scss": "stylelint \"**/*{.css,.scss}\" --custom-syntax postcss-scss",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "prepare": "husky install",
     "semantic-release": "semantic-release",
     "docs:dev": "cd packages/docs && pnpm start",
     "docs:build": "cd packages/docs && pnpm build",
