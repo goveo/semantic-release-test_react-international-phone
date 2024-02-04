@@ -18,9 +18,9 @@
     },
     "./style.css": "./index.css"
   },
-  "types": "index.d.ts",
-  "main": "index.js",
-  "module": "index.mjs",
+  "types": "build/index.d.ts",
+  "main": "build/index.js",
+  "module": "build/index.mjs",
   "scripts": {
     "cm": "cz",
     "build": "tsup && cp README.md build/README.md && cp package.json build/package.json && cp LICENSE build/LICENSE",
