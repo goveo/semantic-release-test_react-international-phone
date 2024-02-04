@@ -1,3 +1,10 @@
+## [1.8.8](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.8.7...v1.8.8) (2024-02-04)
+
+
+### Bug Fixes
+
+* add keywords ([bff922f](https://github.com/goveo/semantic-release-test_react-international-phone/commit/bff922f413fecf3b9715ec1d9740a44084602209))
+
 ## [1.8.7](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.8.6...v1.8.7) (2024-02-04)
 
 
