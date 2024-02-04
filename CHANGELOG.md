@@ -1,3 +1,10 @@
+## [1.8.3](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.8.2...v1.8.3) (2024-02-04)
+
+
+### Bug Fixes
+
+* update semantic-release config ([683b40e](https://github.com/goveo/semantic-release-test_react-international-phone/commit/683b40e4c0920be71c008d08fc89e67390d43d92))
+
 ## [1.8.2](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.8.1...v1.8.2) (2024-02-04)
 
 
