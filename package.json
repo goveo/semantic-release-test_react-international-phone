@@ -8,12 +8,12 @@
   "exports": {
     ".": {
       "import": {
-        "types": "./index.d.mts",
-        "default": "./index.mjs"
+        "types": "./dist/index.d.mts",
+        "default": "./dist/index.mjs"
       },
       "require": {
-        "types": "./index.d.ts",
-        "default": "./index.js"
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.js"
       }
     },
     "./style.css": "./index.css"
@@ -23,7 +23,8 @@
   "module": "index.mjs",
   "scripts": {
     "cm": "cz",
-    "build": "tsup && cp README.md build/README.md && cp package.json build/package.json && cp LICENSE build/LICENSE",
+    "build": "tsup",
+    "build2": "tsup && cp README.md dist/README.md && cp package.json dist/package.json && cp LICENSE dist/LICENSE",
     "test": "jest",
     "test-storybook": "test-storybook",
     "test:coverage": "jest --coverage",
@@ -45,6 +46,9 @@
     "docs:serve": "cd packages/docs && pnpm serve",
     "docs:test": "pnpm build && pnpm docs:build && pnpm docs:serve"
   },
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/goveo/semantic-release-test_react-international-phone.git"

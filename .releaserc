@@ -17,14 +17,14 @@
       "@semantic-release/github",
       {
         "assets": [
-          "build/**/*"
+          "dist/**/*"
         ]
       }
     ],
     [
       "@semantic-release/npm",
       {
-        "pkgRoot": "build"
+        "pkgRoot": "dist"
       }
     ]
   ]
