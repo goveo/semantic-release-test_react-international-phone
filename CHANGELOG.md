@@ -1,3 +1,14 @@
+## [1.8.1](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.8.0...v1.8.1) (2024-02-04)
+
+
+### Bug Fixes
+
+* **build:** copy package.json to dist folder ([aa4f0b5](https://github.com/goveo/semantic-release-test_react-international-phone/commit/aa4f0b5e4df9f29fbdbbd728bf160f001fdbdd46))
+* change build folder to dist ([bb93024](https://github.com/goveo/semantic-release-test_react-international-phone/commit/bb930242cfb1fee8f5c8166f037e566f7b0db4b9))
+* remove buidl from semantic-release call pipeline step ([9cd490a](https://github.com/goveo/semantic-release-test_react-international-phone/commit/9cd490a9641c9e43d607bfe9a928735396e1a811))
+* remove build folder debug from release pipeline ([4b05e87](https://github.com/goveo/semantic-release-test_react-international-phone/commit/4b05e87cd3993472230b84c1aa5c9f2e95dff0f0))
+* update pnpm-lock ([d059431](https://github.com/goveo/semantic-release-test_react-international-phone/commit/d059431b9219e9462ccaa3e475e9863b02a99c93))
+
 # [1.6.0](https://github.com/goveo/semantic-release-test_react-international-phone/compare/v1.5.0...v1.6.0) (2024-02-04)
 
 
