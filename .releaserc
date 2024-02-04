@@ -10,16 +10,17 @@
     [
       "@semantic-release/git",
       {
-        "assets": [
-          "build/**/*"
-        ],
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
     ],
-    "@semantic-release/github",
-    "@semantic-release/npm",
-    {
-      "pkgRoot": "./build/"
-    }
+    [
+      "@semantic-release/github",
+      {
+        "assets": [
+          "build/**/*"
+        ]
+      }
+    ],
+    "@semantic-release/npm"
   ]
 }
